@@ -1,0 +1,1 @@
+# react-vite-cypress-template
